@@ -1,0 +1,4 @@
+
+Vagrant error when mount synced folder
+solution:
+$ vagrant plugin install vagrant-vbguest
